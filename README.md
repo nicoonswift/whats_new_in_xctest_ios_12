@@ -18,3 +18,14 @@ Note: The XCUIDevice.Button.volumeUp and XCUIDevice.Button.volumeDown buttons ar
 ### XCUIRemote
 * [Button](https://developer.apple.com/documentation/xctest/xcuiremote/button?changes=latest_minor)
 
+## Asynchronous Tests and Expectations
+
+[Source](https://developer.apple.com/documentation/xctest/asynchronous_tests_and_expectations?changes=latest_minor)
+
+* [XCTNSNotificationExpectation](https://developer.apple.com/documentation/xctest/xctnsnotificationexpectation?changes=latest_minor)
+
+### XCTNSNotificationExpectation.Handler
+
+A custom handler to be called when a matching notification is received.
+
+[Source](https://developer.apple.com/documentation/xctest/xctnsnotificationexpectation/handler?changes=latest_minor)
